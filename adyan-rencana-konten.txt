@@ -1,5 +1,7 @@
 RENCANA KONTEN ADYAN
 - Java Script
+  * ES6
+  * framework learning
 - PHP Framework
 - Interview
 - Membuat vlog
